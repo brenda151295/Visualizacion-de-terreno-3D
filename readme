@@ -1,0 +1,8 @@
+1. Para mover la luz sobre el terreno se usan las teclas 
+	- S y X para moverse en el eje y 
+	- Z y C para moverse en el eje x
+	- REG_PAG y AV_PAG para moverse en el eje z
+2. Para acercar y alejar el mapa se usan lad flechas arriba y abajo
+3. Para mover la camara se usan las teclas izquierda y derecha
+
+4. Para compilar y ejecutar será solo con "make"
